@@ -35,3 +35,4 @@ DEFINE('TEXT_EDIT_AREA_STYLE', 'font-size: 16px; padding:10px;'); //Sets the fon
 include("cmacc_helpers.php");
 
 ?>
+
