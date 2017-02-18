@@ -3,7 +3,7 @@ A bare folder and some stubs for the CommonAccord application.  <br>
 
 Mount this where you want your application webserver to be.  Add in:<ol><li>
 
-  In the folder /vendor/ clone in the code to run it - cmacc-app.  (You should end up with the code at /vendor/cmacc-app/*)<li>
+  In the folder /vendor/ clone in the code to run it - github.com/CommonAccord/cmacc-app.  (You should end up with the code at /vendor/cmacc-app/*)<li>
 
   In the folder /Doc/ clone in the document sets that you want.  You will very likely need at least CmaccDoc-Z - mount it as /Doc/Z/.</ol>
 
