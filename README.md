@@ -14,6 +14,8 @@ If all goes well, you will have a working instance.<br>
 You can add files using a text editor, move files using a file manager, edit files with an editor or the "Edit" view in the app.  If you use an IDE - for instance Emacs - you can make edits across groups of files and otherwise improve your productivity.
 
 Feedback at CommonAccord.Slack.com or commonaccord@gmail.com, or ... make a pull request!
- 
- 
-  
+
+
+DEPENDENCIES:
+
+A LAMP stack, for instance MAMP (mamp.info).
