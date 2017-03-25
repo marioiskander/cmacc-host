@@ -13,6 +13,7 @@ A bare folder and some stubs for the CommonAccord application.  <br>
 
   A. From https://github.com/CommonAccord/cmacc-host, Clone using the green "Clone of Download" button, then the "Open in Desktop".  Guide the clone to be in ~{user}/Sites/.  
   B. From https://github.com/CommonAccord/cmacc-app, Clone using the green "Clone of Download" button then the "Open in Desktop".  Guide the clone to be in ~{user}/Sites/cmacc-host/vendor/.
+  
   C. Start adding documents:  https://github.com/CommonAccord/Z-CmA, Clone using the green "Clone of Download" button.  Clone, using "Open in Desktop".  Guide the clone to be in ~{user}/Sites/cmacc-host/Doc/G/.  Rename so it becomes ~{user}/Sites/cmacc-host/Doc/G/Z/.  
   D. Test:  Open browser and navigate to http://localhost:8888/cmacc-host/index.php?action=list&file=G/Z/ol/3.  See if you get a page, and if so, click on "Document".  You should get a little, bare section list with {Ti} 1. {1.Sec} 2. {2.Sec} 3. {3.Sec}.  If so, success!  Continue by cloning materials you want to work on.  Keep an eye out for their listed "DEPENDENCIES".  You will need to clone those, too.
 
